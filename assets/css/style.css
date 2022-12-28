@@ -13,7 +13,8 @@ body {
 }
 
 header {
-    height: 200px;
+    height: 150px;
+
 }
 
 /* headings and logo */
@@ -27,23 +28,45 @@ header {
 #logo {
     display: flex;
     align-items: flex-start;
+    height: 150px;
+    width: 150px;
+    padding-left: 50px;
 }
 
 /* navigation links */
 
+
+#menu li {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    padding-left: 30px;
+    align-self: center;
+    font-size: 150%;
+    margin-right: 30px;
+}
+
 #menu {
-    font: 110%;
-    font-size: large;
     letter-spacing: 4px;
     display: flex;
     
     
 }
 
-#menu li {
+div {
+    text-transform: uppercase;
+    color: white;
+    font-size: 500%;
     display: flex;
-    justify-content: flex-end;
-    flex-direction: row;
-    padding-left: 10px;
-    align-self: center;
+    align-self: baseline;
+}
+
+.feature_button {
+    height: 150px;
+    width: 300px;
+    background-image: url('../images/travel.jpg');
+    background-color: rgb(49, 63, 63);
+    border: #3a3a3a solid 2px;
+    background-size: cover;
+    
 }
