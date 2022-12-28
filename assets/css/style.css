@@ -26,7 +26,7 @@ body {
 .header a {
     color: white;
     text-decoration: none;
-    font-size: 150%;
+    font-size: 30px;
     display: flex;
     align-items: center;
     padding-left: 20px;
@@ -47,7 +47,7 @@ body {
     flex-direction: row;
     padding-left: 30px;
     align-self: center;
-    font-size: 100%;
+    
     margin-right: 30px;
     color: white;
     text-decoration: none;
@@ -56,7 +56,7 @@ body {
 #menu a {
     color: white;
     text-decoration: none;  
-
+    font-size: 100%;
 }
 
 #menu a:hover {
@@ -99,8 +99,8 @@ body {
 }
 
 .feature_button {
-    height: 150px;
-    width: 300px;
+    height: 200px;
+    width: 400px;
     background-color: rgb(49, 63, 63);
     border: #3a3a3a solid 2px;
     background-size: cover;
