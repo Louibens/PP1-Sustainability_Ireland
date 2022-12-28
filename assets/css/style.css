@@ -12,22 +12,38 @@ body {
     color: #3a3a3a
 }
 
+header {
+    height: 200px;
+}
+
 /* headings and logo */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #758173;
+}
 
 #logo {
     display: flex;
-    justify-content: flex-start;
+    align-items: flex-start;
 }
 
 /* navigation links */
 
 #menu {
     font: 110%;
+    font-size: large;
     letter-spacing: 4px;
+    display: flex;
+    
+    
 }
 
 #menu li {
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
+    padding-left: 10px;
+    align-self: center;
 }
