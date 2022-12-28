@@ -9,7 +9,7 @@
 body {
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
-    color: antiquewhite;
+    color: white;
 
 }
 
@@ -23,11 +23,18 @@ body {
     
 }
 
-#logo {
+.header a {
+    color: white;
+    text-decoration: none;
+    font-size: 150%;
     display: flex;
-    align-items: flex-start;
-    height: 150px;
-    width: 150px;
+    align-items: center;
+    padding-left: 20px;
+}
+
+#logo {
+    height: 80px;
+    width: 80px;
     padding-left: 50px;
 }
 
@@ -40,20 +47,20 @@ body {
     flex-direction: row;
     padding-left: 30px;
     align-self: center;
-    font-size: 150%;
+    font-size: 100%;
     margin-right: 30px;
-    color: antiquewhite;
+    color: white;
     text-decoration: none;
 }
 
 #menu a {
-    color: antiquewhite;
+    color: white;
     text-decoration: none;  
 
 }
 
 #menu a:hover {
-    border-bottom: 1px solid antiquewhite;
+    border-bottom: 1px solid white;
     
 }
 
@@ -64,9 +71,10 @@ body {
 }
 
 .features {
+    padding-top: 100px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     text-decoration: none;
     color: antiquewhite; 
 }
@@ -100,7 +108,7 @@ body {
 }
 
 a:-webkit-any-link {
-    color: -webkit-link;
+    color: white;
     cursor: pointer;
     text-decoration: none;
 }
@@ -114,3 +122,13 @@ a:-webkit-any-link {
 .fb2 {
     background-image: url('../images/household.jpg');
 }
+
+footer {
+    height: 200px;
+    background-color: #758173;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; 
+}
+
