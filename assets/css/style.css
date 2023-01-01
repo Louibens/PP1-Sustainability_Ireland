@@ -68,15 +68,16 @@ body {
     
 }
 
-.welcome {
-    justify-content: center;
-    padding: 50px;
-}
-
 #quote {
     display: flex;
     justify-content: center;
     flex-direction: row;
+    padding: 10px;
+}
+
+.welcome p {
+    display: flex;
+    justify-content: center;
     padding: 10px;
 }
 
@@ -88,7 +89,6 @@ body {
     color: antiquewhite; 
     margin: 0 75px 75px 75px;
     gap: 50px;
-    
 }
 
 .features div {
@@ -133,6 +133,22 @@ a:-webkit-any-link {
 
 .fb2 {
     background-image: url('../images/household.jpg');
+}
+
+.fb3 {
+    background-image: url('../images/baby.jpg');
+}
+
+.fb4 {
+    background-image: url('../images/recycle.jpg');
+}
+
+.fb5 {
+    background-image: url('../images/fashion.jpg');
+}
+
+.fb6 {
+    background-image: url('../images/xmas.jpg');
 }
 
 footer {
