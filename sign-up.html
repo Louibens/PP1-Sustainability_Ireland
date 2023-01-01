@@ -22,21 +22,33 @@
                     <a href="#">Features</a>
                 </li>
                 <li>
-                    <a href="sign-up.html">Sign Up</a>
+                    <a href="sign-up.html" class="active">Sign Up</a>
                 </li>
             </ul>
         </nav>
     </header>
-    <h1>Please fill out this form with the required information</h1>
+    <div class="form-box">
+    <h3>Sign up to recieve more sustainability tips and information in our monthly newsletter</h3>
     
-    <form method="post" action=''>
+    <form method="post" action="https://formdump.codeinstitute.net/">
       <fieldset>
         <label for="first-name">Enter Your First Name: <input id="first-name" type="text" required /></label>
         <label for="last-name">Enter Your Last Name: <input id="last-name" type="text" required /></label>
         <label for="email">Enter Your Email: <input id="email" type="email" required /></label>
-        <label for="new-password">Create a New Password: <input id="new-password" type="password" pattern="[a-z0-5]{8,}" required /></label>
-      </fieldset>
+        <label for="interests">Interests: 
+          <input type="text" id="interests" name="interests" list="interest"></label>
+          <datalist id="interest">
+              <option value="Travel"></option>
+                  <option value="Household"></option>
+                      <option value="Recycling"></option>
+                          <option value="Fashion"></option>
+          </datalist>
+          <button type="submit">Send!</button>
+          <input type="reset" value="Reset form">
+      
       </form>
+    </div>
+      </body>
       <footer>
         Footer here including social icon links, sitemap, Address
     </footer>
