@@ -9,8 +9,6 @@
 body {
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
-    color: white;
-
 }
 
 
@@ -70,13 +68,25 @@ body {
     
 }
 
+.welcome {
+    justify-content: center;
+    padding: 50px;
+}
+
+#quote {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
 .features {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     text-decoration: none;
     color: antiquewhite; 
-    margin: 75px;
+    margin: 0 75px 75px 75px;
     gap: 50px;
     
 }
