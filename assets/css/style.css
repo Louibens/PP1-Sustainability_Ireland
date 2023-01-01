@@ -9,6 +9,8 @@
 body {
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
+    background-color: rgb(64, 66, 68);
+    color: white
 }
 
 
@@ -45,7 +47,6 @@ body {
     flex-direction: row;
     padding-left: 30px;
     align-self: center;
-    
     margin-right: 30px;
     color: white;
     text-decoration: none;
@@ -159,3 +160,9 @@ footer {
     height: 2.5rem; 
 }
 
+/* form */
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+  }
