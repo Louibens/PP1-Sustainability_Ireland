@@ -10,7 +10,8 @@ body {
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
     background-color: rgb(219, 223, 220);
-    color: rgb(41, 41, 41)
+    color: rgb(41, 41, 41);
+
 }
 
 
@@ -20,7 +21,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #758173;
-    
+
 }
 
 .header a {
@@ -184,6 +185,10 @@ footer {
 
 /* form */
 
+.sign {
+    height:75%;
+}
+
 .sign-up {
     background-image: url('../images/paper-plane.jpg');
     background-size: cover;
@@ -235,3 +240,5 @@ label {
     background-color: #fafafa;
     color: #758173;
 }
+
+
