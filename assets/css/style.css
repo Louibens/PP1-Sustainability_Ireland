@@ -9,8 +9,8 @@
 body {
     font-family: Ubuntu, sans-serif;
     font-weight: 400;
-    background-color: rgb(64, 66, 68);
-    color: white
+    background-color: rgb(219, 223, 220);
+    color: rgb(41, 41, 41)
 }
 
 
@@ -93,7 +93,7 @@ body {
     justify-content: space-around;
     text-decoration: none;
     color: antiquewhite; 
-    margin: 0 75px 75px 75px;
+    margin: 10px 75px 75px 75px;
     gap: 50px;
 }
 
@@ -101,10 +101,11 @@ body {
     text-transform: uppercase;
     color: antiquewhite;
     font-size: 48px;
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5), 0 0 20px 0 #252525cc;
     text-decoration: none;
     color: antiquewhite;
     border-radius: 10px;
+
 }
 
 .features div:hover {
@@ -122,7 +123,7 @@ body {
     background-color: rgb(49, 63, 63);
     border: #3a3a3a solid 2px;
     background-size: cover;
-    text-decoration: none;
+    
 }
 
 a:-webkit-any-link {
@@ -134,7 +135,7 @@ a:-webkit-any-link {
 
 .fb1 {
     background-image: url('../images/travel.jpg');
-    
+
 }
 
 .fb2 {
