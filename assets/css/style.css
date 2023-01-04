@@ -186,7 +186,7 @@ footer {
 /* form */
 
 .sign {
-    height:75%;
+    height:90%;
 }
 
 .sign-up {
@@ -202,7 +202,7 @@ label {
   }
 
 .form-box {
-    margin: 150px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
@@ -233,7 +233,8 @@ label {
     font-size: 100%;
     background-color: #758173;
     color: #fafafa;
-    display: block;
+    display: inline-block;
+    border: 1px solid #fafafa;
 }
 
 .join-button:hover {
@@ -241,4 +242,18 @@ label {
     color: #758173;
 }
 
+/* Media queries */
+@media screen and (max-width: 950px){
 
+    #menu{
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+   
+    #logo {
+        height: 80px;
+        width: 80px;
+        padding-left: 10px;
+}
+}
