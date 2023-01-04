@@ -11,7 +11,9 @@ body {
     font-weight: 400;
     background-color: rgb(219, 223, 220);
     color: rgb(41, 41, 41);
-
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -163,10 +165,10 @@ a:-webkit-any-link {
 
 footer {
     background-color: #758173;
-    position: relative;
+    margin-top: auto;
     bottom: 0;  
     width: 100%;
-    height: 2.5rem; 
+    height: 5rem; 
 }
 
 .social-networks {
@@ -185,10 +187,6 @@ footer {
 
 /* form */
 
-.sign {
-    height:90%;
-}
-
 .sign-up {
     background-image: url('../images/paper-plane.jpg');
     background-size: cover;
@@ -202,7 +200,7 @@ label {
   }
 
 .form-box {
-    margin: 100px 10% 0 0;
+    margin: 100px 10% 100px 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
