@@ -274,17 +274,30 @@ label {
 /* Media queries */
 @media screen and (max-width: 950px){
 
-    #menu ul{
+
+    header {
+        width: 100vw;
+        background-color: #758173;
+        height: 125px;
+    }
+
+    .header {
+        display: block;
+        width: 100vw;
+        background-color: #758173;
+    
+    }
+
+    #menu {
         display: flex;
-        flex-wrap: wrap;
+    
         background-color:#758173; 
     }
 
-    .header a {
+    .menu li {
         display: flex;
         flex-direction: row;
         background-color: #758173;
-    
     }
 
    
