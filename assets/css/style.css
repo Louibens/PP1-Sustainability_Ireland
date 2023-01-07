@@ -14,22 +14,23 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    width: 100vw;
 }
 
 
 /* headings and logo */
 
-.header {
+.header-container {
     display: flex;
     justify-content: space-between;
-    background-color: #758173;
+    background-color: #3a4139;
 
 }
 
-.header a {
+.header-container a {
     color: white;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 1.5em;
     display: flex;
     align-items: center;
     padding-left: 20px;
@@ -38,38 +39,39 @@ body {
 #logo {
     height: 80px;
     width: 80px;
-    padding-left: 50px;
 }
 
 /* navigation links */
 
-
-#menu li {
-    display: flex;
-    justify-content: flex-end;
+.menu {
+    letter-spacing: 4px;
+    display: flex; 
     flex-direction: row;
-    padding-left: 30px;
-    align-self: center;
+}
+
+.menu ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    list-style-type: none;
     margin-right: 30px;
     color: white;
     text-decoration: none;
 }
 
-#menu a {
+.menu a {
     color: white;
     text-decoration: none;  
     font-size: 100%;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid white;
     
 }
 
-#menu {
-    letter-spacing: 4px;
-    display: flex; 
-}
+
 
 .active{
     border-bottom: 1px solid white;
@@ -164,7 +166,7 @@ a:-webkit-any-link {
 /* footer */
 
 footer {
-    background-color: #758173;
+    background-color: #3a4139;
     margin-top: auto;
     bottom: 0;  
     width: 100%;
@@ -251,7 +253,7 @@ label {
 }
 
 .text-input:hover {
-    border-color: #758173;
+    border-color: #3a4139;
 }
 
 .join-button {
@@ -260,7 +262,7 @@ label {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #758173;
+    background-color:#3a4139;
     color: #fafafa;
     display: inline-block;
     border: 1px solid #fafafa;
@@ -268,43 +270,27 @@ label {
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #758173;
+    color: #3a4139;
 }
 
 /* Media queries */
 @media screen and (max-width: 950px){
 
 
-    header {
+    .header-container {
+        display: block;        
+        background-color: #3a4139;
         width: 100vw;
-        background-color: #758173;
-        height: 125px;
+        font-size: 0.8em;
     }
 
-    .header {
-        display: block;
-        width: 100vw;
-        background-color: #758173;
-    
-    }
 
-    #menu {
-        display: flex;
-    
-        background-color:#758173; 
-    }
-
-    .menu li {
-        display: flex;
-        flex-direction: row;
-        background-color: #758173;
-    }
 
    
     #logo {
         height: 80px;
         width: 80px;
-        padding-left: 10px;
+        
 }
 
     .feature_button {
