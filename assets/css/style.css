@@ -9,13 +9,15 @@
 body {
     font-family: Futura,sans-serif;
     font-weight: 400;
-    background-color: rgb(219, 223, 220);
+    background-color: rgb(190,187,182);
+    
+    height: 900px;
     color: rgb(41, 41, 41);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     width: 100vw;
-    margin: auto
+    margin: auto;
 }
 
 
@@ -169,6 +171,8 @@ a:-webkit-any-link {
     background-image: url('../images/xmas.jpg');
 }
 
+/* travel page */
+
 .info {
     display: flex;
     flex-wrap: wrap;
@@ -261,7 +265,7 @@ footer {
 /* form */
 
 .sign-up {
-    background-image: url('../images/paper-plane.jpg');
+    background-image: url('../images/no-planet-b.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
