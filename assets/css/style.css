@@ -205,6 +205,8 @@ a:-webkit-any-link {
     text-align: center;
     display: flex;
     align-items: center;
+    height: 200px;
+    width: 400px;
 }
 
 /* footer */
@@ -337,6 +339,10 @@ label {
         height: 70px;
         width: 70px;
         
+}
+
+.info-section div {
+    font-size: 1em;
 }
 
 .menu {
