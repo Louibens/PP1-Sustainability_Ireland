@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Ubuntu, sans-serif;
+    font-family: Futura,sans-serif;
     font-weight: 400;
     background-color: rgb(219, 223, 220);
     color: rgb(41, 41, 41);
@@ -187,9 +187,11 @@ a:-webkit-any-link {
 .info-box {
         height: 200px;
         width: 400px;
-        background-color: rgb(83, 104, 89);
+        background-color: #CBBEAD;
         border: #3a3a3a solid 2px;
         background-size: cover;
+        border-radius: 10px;
+        color: #3a4139;;
         
     }
 
