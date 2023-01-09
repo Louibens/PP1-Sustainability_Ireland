@@ -42,6 +42,12 @@ body {
 #logo {
     height: 80px;
     width: 80px;
+    letter-spacing: 4px;
+    margin-right: 5px;
+}
+
+.text-logo {
+    letter-spacing: 4px;   
 }
 
 /* navigation links */
@@ -50,13 +56,13 @@ body {
     letter-spacing: 4px;
     display: flex; 
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .menu ul {
     display: flex;
     flex-direction: row;
     align-items: center;
-    
     list-style-type: none;
     margin-right: 30px;
     color: white;
@@ -85,6 +91,7 @@ body {
     flex-direction: row;
 }
 
+
 .dropdown {
     float: left;
     overflow: hidden;
@@ -101,6 +108,7 @@ body {
     font-family: inherit;
     margin: 0;
   }
+
   
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: #3a4139;
