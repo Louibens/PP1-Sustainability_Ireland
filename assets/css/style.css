@@ -171,7 +171,7 @@ a:-webkit-any-link {
     background-image: url('../images/xmas.jpg');
 }
 
-/* travel page */
+/* feature pages */
 
 .info {
     display: flex;
@@ -189,8 +189,7 @@ a:-webkit-any-link {
 }
 
 .info-box {
-        height: 200px;
-        width: 400px;
+       
         background-color: #D8EBE8;
         border: #3a3a3a solid 2px;
         background-size: cover;
@@ -205,8 +204,8 @@ a:-webkit-any-link {
     text-align: center;
     display: flex;
     align-items: center;
-    height: 200px;
-    width: 400px;
+    height: 250px;
+    width: 600px;
 }
 
 /* footer */
@@ -342,6 +341,7 @@ label {
 }
 
 .info-section div {
+    height: 300px;
     font-size: 1em;
 }
 
