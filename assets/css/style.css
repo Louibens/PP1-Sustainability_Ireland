@@ -169,6 +169,35 @@ a:-webkit-any-link {
     background-image: url('../images/xmas.jpg');
 }
 
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-decoration: none;
+    color: antiquewhite; 
+    margin: 50px 75px 50px 75px;
+    gap: 50px;
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.info-box {
+        height: 200px;
+        width: 400px;
+        background-color: rgb(49, 63, 63);
+        border: #3a3a3a solid 2px;
+        background-size: cover;
+        
+    }
+
+.info-section div {
+    font-size: 20px;
+    padding: 10px
+}
+
 /* footer */
 
 footer {
