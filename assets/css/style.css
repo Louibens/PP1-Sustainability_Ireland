@@ -62,6 +62,7 @@ body {
     display: flex; 
     flex-direction: row;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .menu ul {
@@ -248,26 +249,17 @@ a:-webkit-any-link {
 
 /* feature pages */
 
-.info {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    text-decoration: none;
-    color: antiquewhite; 
-    margin: 50px 75px 50px 75px;
-    gap: 50px;
-    width: 80%;
-    margin: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
+.info-section {
     
+    margin: auto;
 }
+
 
 .info-box {
        
         background-color: #D8EBE8;
         border: #3a3a3a solid 2px;
-        background-size: cover;
+        margin: auto;
         border-radius: 10px;
         color: #3a4139;
         
@@ -275,19 +267,23 @@ a:-webkit-any-link {
 
 .info-section div {
     font-size: 20px;
-    padding: 10px;
+    margin: auto;
     text-align: center;
-    display: flex;
-    align-items: center;
-    height: 250px;
-    width: 600px;
+    height: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.divider {
+    border: 10px solid #D8EBE8;
+
 }
 
 /* footer */
 
 footer {
     background-color: #3a4139;
-    margin-top: auto;
+    margin-top: 5px;
     bottom: 0;  
     width: 100%;
     height: 5rem; 
@@ -406,7 +402,7 @@ label {
 
     .text-logo {
         letter-spacing: 2px;  
-        font-size: 1.5em;
+        font-size: 1.8em;
         font-weight: 600; 
     }
 
@@ -428,11 +424,14 @@ label {
     width: 100%;
     padding-bottom: 5px;
     
+    
 }
 
 .info-section div {
-    height: 300px;
+    height: auto;
+    width: 80%;
     font-size: 1em;
+    margin: auto;
 }
     .feature_button {
         height: 200px;
