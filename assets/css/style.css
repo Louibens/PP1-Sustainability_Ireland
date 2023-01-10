@@ -359,13 +359,14 @@ label {
   }
 
 .form-box {
-    margin: 150px 10% 100px 0;
+    
+    
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
-    position: absolute;
+    
     left: 10%;
-    padding: 30px;
+    
 }
 
 .text-input {
@@ -413,7 +414,7 @@ label {
 
     .text-logo {
         letter-spacing: 2px;  
-        font-size: 1.8em;
+        font-size: 16px;
         font-weight: 600; 
         margin: 0
     }
