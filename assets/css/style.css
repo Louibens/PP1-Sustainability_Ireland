@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@300&family=Ubuntu&display=swap');
+
 
 * {
     margin: 0;
@@ -7,10 +9,9 @@
 }
 
 body {
-    font-family: Futura,sans-serif;
+    font-family: Montserrat; 
     font-weight: 400;
     background-color: rgb(190,187,182);
-    
     height: 900px;
     color: rgb(41, 41, 41);
     min-height: 100vh;
@@ -27,16 +28,18 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #3a4139;
+    
 
 }
 
 .header-container a {
     color: white;
     text-decoration: none;
-    font-size: 1.5em;
     display: flex;
     align-items: center;
     padding-left: 20px;
+    font-size: 1em;
+    
 }
 
 #logo {
@@ -47,7 +50,9 @@ body {
 }
 
 .text-logo {
-    letter-spacing: 4px;   
+    letter-spacing: 2px;  
+    font-size: 2em;
+    font-weight: 600; 
 }
 
 /* navigation links */
@@ -399,6 +404,12 @@ label {
         font-size: 1em;
     }
 
+    .text-logo {
+        letter-spacing: 2px;  
+        font-size: 1.5em;
+        font-weight: 600; 
+    }
+
     #quote {
         font-size: 0.8em;
     }
@@ -410,11 +421,6 @@ label {
         
 }
 
-.info-section div {
-    height: 300px;
-    font-size: 1em;
-}
-
 .menu {
     display: flex;
     justify-content: flex-end;
@@ -424,6 +430,10 @@ label {
     
 }
 
+.info-section div {
+    height: 300px;
+    font-size: 1em;
+}
     .feature_button {
         height: 200px;
         width: 80vw;
