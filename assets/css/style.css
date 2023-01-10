@@ -28,7 +28,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #3a4139;
-    
+    margin: 0;
 
 }
 
@@ -70,7 +70,7 @@ body {
     flex-direction: row;
     align-items: center;
     list-style-type: none;
-    margin-right: 30px;
+    
     color: white;
     text-decoration: none;
 }
@@ -160,7 +160,7 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: row;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -171,13 +171,14 @@ body {
         color: #3a4139;
         width: auto;
         margin: 10px;
+        padding: 5px;
 }
 
 .welcome p {
     display: flex;
     justify-content: center;
     text-align: center;
-    padding: 10px;
+   
 }
 
 
@@ -405,14 +406,16 @@ label {
     .header-container {
         display: block;        
         background-color: #3a4139;
-        width: 100vw;
-        font-size: 1em;
+        width: 100%;
+        font-size: 0.8em;
+        margin: 0
     }
 
     .text-logo {
         letter-spacing: 2px;  
         font-size: 1.8em;
         font-weight: 600; 
+        margin: 0
     }
 
     #quote {
@@ -430,7 +433,7 @@ label {
     display: flex;
     justify-content: flex-end;
     background-color: #3a4139;
-    width: 100%;
+    
     padding-bottom: 5px;
     
     
