@@ -164,6 +164,15 @@ body {
     text-align: center;
 }
 
+.welcome {
+    background-color: #D8EBE8;
+        border: #3a3a3a solid 2px;
+        border-radius: 10px;
+        color: #3a4139;
+        width: auto;
+        margin: 10px;
+}
+
 .welcome p {
     display: flex;
     justify-content: center;
