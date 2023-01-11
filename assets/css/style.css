@@ -162,6 +162,7 @@ body {
         flex-direction: column;
     justify-content: center;
     text-align: center;
+    height: auto
 }
 
 
