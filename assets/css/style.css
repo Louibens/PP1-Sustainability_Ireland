@@ -149,16 +149,8 @@ body {
   /*body*/
 
 
-
-#quote {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    padding: 5px;
-    text-align: center;
-}
-
 .welcome {
+    
     background-color: #D8EBE8;
         border: #3a3a3a solid 2px;
         border-radius: 10px;
@@ -166,14 +158,13 @@ body {
         width: auto;
         margin: 10px;
         padding: 5px;
-}
-
-.welcome p {
-    display: flex;
+        display: flex;
+        flex-direction: column;
     justify-content: center;
     text-align: center;
-   
 }
+
+
 
 
 
@@ -183,7 +174,6 @@ body {
     justify-content: center;
     text-decoration: none;
     color: antiquewhite; 
-    margin: 50px 75px 50px 75px;
     gap: 50px;
     width: 80%;
     margin: auto;
@@ -402,6 +392,7 @@ label {
         display: block;        
         background-color: #3a4139;
         width: 100%;
+        height: auto;
         margin: 0
     }
 
