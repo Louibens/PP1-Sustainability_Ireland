@@ -14,9 +14,7 @@ body {
     background-color: rgb(190,187,182);
     height: 900px;
     color: rgb(41, 41, 41);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    
     width: 100vw;
     margin: 0;
 }
@@ -147,6 +145,10 @@ body {
   }
 
   /*body*/
+
+main{
+    height: auto;
+ }
 
 
 .welcome {
@@ -444,6 +446,10 @@ label {
     color: antiquewhite;
     border-radius: 10px;
 
+}
+
+footer {
+    font-size: 14px;
 }
 }
 
