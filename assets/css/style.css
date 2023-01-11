@@ -449,6 +449,8 @@ label {
 @media screen and (min-width: 1400px){
 
     .features {
+        margin: auto;
         padding-bottom: 85px;
+        max-width: 80%;
     }
 }
