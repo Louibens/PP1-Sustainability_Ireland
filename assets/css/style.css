@@ -15,6 +15,7 @@ body {
     background-color: rgb(190,187,182);
     color: rgb(41, 41, 41);
     margin: 0;
+    height: 100vh;
 }
 
 
@@ -287,8 +288,7 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
     color: white;
-    
-  bottom: 0;
+    bottom: 0;
 }
 
 .social-networks {
