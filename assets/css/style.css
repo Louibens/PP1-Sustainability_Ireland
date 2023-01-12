@@ -14,8 +14,9 @@ body {
     font-weight: 400;
     background-color: rgb(190,187,182);
     color: rgb(41, 41, 41);
-    margin: 0;
+    margin: 0 auto;
     max-width: 2000px;
+    
 }
 
 
