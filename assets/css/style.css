@@ -354,6 +354,7 @@ label {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     padding: 30px;
+    margin: 20px;
 }
 
 .text-input {
