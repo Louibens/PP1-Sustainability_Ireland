@@ -251,7 +251,7 @@ a:-webkit-any-link {
 
 .info-section {
     
-    margin: 45px;
+    margin: 10px 45px;
 }
 
 
@@ -272,11 +272,15 @@ a:-webkit-any-link {
     height: auto;
     width: 80%;
     padding: 10px;
+    list-style-position: inside;
 }
 
 .divider {
     border: 10px solid #D8EBE8;
+}
 
+.thin-divider {
+    border: 2px solid #D8EBE8;
 }
 
 /* footer */
@@ -429,6 +433,7 @@ label {
     height: auto;
     font-size: 1em;
     margin: auto;
+    
 }
     .feature_button {
         height: 200px;
@@ -456,6 +461,8 @@ label {
 
 }
 
+
+
 footer {
     font-size: 14px;
 }
@@ -464,9 +471,13 @@ footer {
 @media screen and (min-width: 1400px){
 
     .features {
-        margin: 40px auto;
+        margin: 5% auto 5% auto;
         padding-bottom: 50px;
         max-width: 85%;
+    }
+
+    .form-box {
+        margin: 5% 0 10% 0;
     }
 }
 
