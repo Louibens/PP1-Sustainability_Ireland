@@ -179,7 +179,7 @@ main {
     color: antiquewhite; 
     gap: 50px;
     width: auto;
-    margin: 20px
+    margin: 20px auto
     
 }
 
@@ -251,14 +251,14 @@ a:-webkit-any-link {
 
 
 .page-image {
-    height: 100px;
-    width: 200px;
+    height: 125px;
+    width: 250px;
     background-color: rgb(49, 63, 63);
     border: #3a3a3a solid 2px;
     background-size: cover;
     padding: 5px;
     margin: 10px auto 5px auto;
-    font-size: 68px;
+    font-size: 42px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -493,9 +493,9 @@ footer {
 @media screen and (min-width: 1400px){
 
     .features {
-        margin: 3% auto 3% auto;
+        margin: 3% 10px 3% 10px;
         padding-bottom: 50px;
-        max-width: 85%;
+        
     }
 
     .form-box {
@@ -503,8 +503,8 @@ footer {
     }
 
     .feature_button {
-        height: 250px;
-        width: 500px;
+        height: 225px;
+        width: 450px;
         background-color: rgb(49, 63, 63);
         border: #3a3a3a solid 2px;
         background-size: cover;
