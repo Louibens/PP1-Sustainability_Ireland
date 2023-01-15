@@ -177,7 +177,7 @@ body {
     height:500px;
     width: 100%;
     background-color: aquamarine;
-    background: url(/assets/images/girl_plant.jpg) no-repeat center center;
+    background: url('../images/girl_plant.jpg') no-repeat center center;
     background-size: cover;
 }
 
