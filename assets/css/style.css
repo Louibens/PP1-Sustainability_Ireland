@@ -150,6 +150,7 @@ body {
 
   #intro {
     height:500px;
+    width: 100%;
     display: flex;
     align-items: center;
 }
@@ -165,7 +166,7 @@ body {
         margin-left: 50px;
         border-radius: 10px;
         text-align: center;
-        width: 800px;
+        width: 50%;
         height: 400px;
         position: absolute;
     
@@ -484,6 +485,15 @@ label {
     margin-right: 5px;
 }
 
+#intro {
+    height: 400px
+}
+
+.girl_img {
+    height:400px;
+   
+}
+
 .welcome {
     display: flex;
     justify-content: center;
@@ -492,18 +502,18 @@ label {
     padding: 20px;
         font-size: 14px;
         background-color: rgba(243, 247, 241, 0.7);
-        margin-left: 50px;
+        margin: 10%;
         border-radius: 10px;
         text-align: center;
         width: 280px;
-        height: 400px;
-        position: absolute;
+        height: 300px;
+        
     
     }
 
     .quote h1 {
-        font-size: 20px;
-        width: 80%
+        font-size: 16px;
+        width: 70%
     }
 
 .info-section {
@@ -594,5 +604,17 @@ footer {
 
 }
 
+@media only screen and (min-width: 950px) and (max-width: 1110px) {
 
+    .welcome p {
+        font-size: 20px !important;
+        
+    }
+
+    .quote h1 {
+        font-size: 20px;
+        width: 75%
+    }
+
+}
 
