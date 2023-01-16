@@ -395,6 +395,7 @@ footer {
     background-image: url('../images/no-planet-b.jpg');
     background-size: cover;
     background-position: center;
+    height: 900px;
     
 }
 
@@ -408,7 +409,9 @@ label {
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     padding: 30px;
-    margin: 20px;
+    position: absolute;
+    left: 10%;
+    margin: 100px 10% 0 0
 }
 
 .text-input {
@@ -549,9 +552,7 @@ footer {
         
     }
 
-    .form-box {
-        margin: 5% 0 10% 0;
-    }
+    
 
     .feature_button {
         height: 225px;
