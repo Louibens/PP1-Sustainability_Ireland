@@ -261,7 +261,7 @@ a:-webkit-any-link {
 
 
 .fb1 {
-    background-image: url('../images/travel.jpg');
+    background-image: url('../images/travel.avif');
 
 }
 
@@ -332,7 +332,7 @@ a:-webkit-any-link {
 
 
 .travel-image {
-    background: url('../images/travel.jpg') no-repeat center center;
+    background: url('../images/travel.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
