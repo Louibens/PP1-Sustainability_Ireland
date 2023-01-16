@@ -4,7 +4,8 @@
 
 Sustainability Ireland is a website containing information to help anyone who is interested in learning how to start their sustainable lifestyle journey and aims to encourage people to introduce us to family and friends to increase the impact of their actions.
 
-!add image here
+![image](https://user-images.githubusercontent.com/119696542/212702938-6b0d6756-6d43-437c-b746-153361b83786.png)
+
 
 ## Index – Table of Contents
 * [User Experience (UX)](#user-experience-ux) 
@@ -19,14 +20,14 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 -   ### User stories
 
-    -   #### A. First Time Visitor Goals
+    -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to be able to easily navigate to and understand the information provided.
         4. As a First Time Visitor, I want to be able to easily navigate to and sign up for the monthly newsletter.
         
-    -   #### B. Returning Visitor Goals
+    -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to be able to access and view the relevant feature quickly and easily.
            
@@ -39,7 +40,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
     - The navigation bar has a consistent look and placement on all pages of the website supporting easy navigation.  It includes a Logo image combined with a simple text logo, and menu items - Home page, Features and Sign up links. The Features link has a drop down menu to the different feature pages. This drop down list updates on each feature page to remove the page that you are currently on. It is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
-      !add image here
+      ![image](https://user-images.githubusercontent.com/119696542/212703501-7187d619-532d-4d16-bbd6-66976d3c1c5c.png)
     
 
 -   __F02 Landing Page image__
@@ -48,26 +49,24 @@ Sustainability Ireland is a website containing information to help anyone who is
 
     - A large quote below the hero image is used to emphasise the impact of sharing the sustainable lifestyle journey.
 
-      !add image here
+      ![image](https://user-images.githubusercontent.com/119696542/212703622-6a7e74e7-2d42-43be-9a6c-64a6e6946ea8.png)
 
 - __F03 Feature buttons__
 
     - There are currently 6 feature buttons on the landing page which are labelled to identify the content that can be found when clicked. The feature buttons "light up" when you hover over each one to add some interactivity with the website. Text colour is kept simple with added shadown to improve readability and to minimise distraction.
 
-      !add image here
+     ![image](https://user-images.githubusercontent.com/119696542/212703699-5a2df2a1-4981-4c5a-a984-2e6c06c1de22.png)
 
 
 - __F04 Footer__
 
-    - The footer is featured on all pages and is identical on each page making it easy to use.  It contains three sections :
+    - The footer is featured on all pages and is identical on each page making it easy to use.  It contains two sections :
 
-        - Follow us - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As Sustainability Ireland is a ficticious company, the links currently just go to the social media main websites.)
+    - Follow us - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As Sustainability Ireland is a ficticious company, the links currently just go to the social media main websites.)
 
-        - Address - similar to the opening times, the address of this type of business is important to the user in order for them to use the company and so has been repeated on each page in the footer to allow the user to quickly and easily find out where the company is located 
+    - Disclaimer - notify any users that this website has been created as part of the Code Institute diploma.
 
-        - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As THRIVE is a ficticious company, the links currently just go to the social media main websites.)
-
-      !add image here
+      ![image](https://user-images.githubusercontent.com/119696542/212704135-963c0aa5-8249-4e82-ad4b-a47bbd9939f1.png)
 
 - __F06 Feature Pages - 'Features' section__
 
@@ -75,14 +74,14 @@ Sustainability Ireland is a website containing information to help anyone who is
     
 - There is also a background image which matches the image of the feature button on the homepage. Certain text is in bold to make the text more understandable at a quick glance.
 
-       !add image here
+     ![image](https://user-images.githubusercontent.com/119696542/212704596-5284f645-ca74-4bfc-a018-139d3db43d16.png)
 
 
 - __F07 Sign up page - 'Sign up'__
 
 - This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in to help support the development of features in the future. The user will be asked to submit their full name and email address.
 
-	!add image here
+	![image](https://user-images.githubusercontent.com/119696542/212704422-8201ae3b-b80b-4a9c-b4d3-0e7f33cef9af.png)
 
 
    
