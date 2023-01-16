@@ -10,7 +10,7 @@
 }
 
 body {
-    font-family: Montserrat; 
+    font-family: Montserrat, sans-serif; 
     font-weight: 400;
     background-color: white;
     color: rgb(41, 41, 41);
@@ -285,42 +285,41 @@ a:-webkit-any-link {
 
 
 .info-section {
-    padding: 5% 
+    padding: 3%;
+    margin: 0
 }
 
 
 
 .info-box {
        
-        background-color: #D8EBE8;
-        border: #3a3a3a solid 2px;
+    background-color: rgba(243, 247, 241, 0.8);
+        border: rgb(243, 247, 241) solid 2px;
         
         border-radius: 10px;
         color: #3a4139;
         
+        margin: 2%
     }
+
+    
 
 .info-box li {
     padding: 3px;
 }
 
 .info-section div {
-    font-size: 20px;
-    margin: auto;
+    font-size: 24px;
+    
     text-align: center;
     height: auto;
     width: 80%;
     padding: 10px;
     list-style-position: inside;
+    
 }
 
-.divider {
-    border: 10px solid #D8EBE8;
-}
 
-.thin-divider {
-    border: 2px solid #D8EBE8;
-}
 
 .travel-image {
     background: url('../images/travel.jpg') no-repeat center center;
@@ -507,17 +506,17 @@ label {
         width: 70%
     }
 
-.info-section {
-    
-    margin: 15px;
-}
+
 
 .info-section div {
     height: auto;
     font-size: 1em;
-    margin: auto;
-    
+    margin: 2%;
+    width: 90%
 }
+
+
+
     .feature_button {
         height: 200px;
         width: 80vw;
