@@ -507,7 +507,7 @@ label {
         margin: 10%;
         border-radius: 10px;
         text-align: center;
-        width: 280px;
+        width: 250px;
         height: 300px;
         
     
@@ -537,6 +537,13 @@ label {
         border: #3a3a3a solid 2px;
         background-size: cover;
     
+}
+
+.features div {
+    
+    font-size: 36px;
+    
+
 }
 
 .features {
