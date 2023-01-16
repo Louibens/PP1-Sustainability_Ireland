@@ -374,7 +374,9 @@ footer {
     width: 100%;
     height: auto;
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
+    align-items: center;
     list-style-type: none;
     color: white;
     bottom: 0;
@@ -384,16 +386,21 @@ footer {
 
 
 .social-networks {
-    width:30%; 
+    width:50%; 
     text-align: center;
     padding: 10px
-    
+    height: 50px
 }
 
 .social-networks h3 {
-    
+    padding-top: 10px;
     padding-bottom: 10px;
     
+}
+
+.social-networks ul {
+    display: flex;
+    justify-content: space-between;
 }
 
 .social-networks li {
@@ -401,12 +408,12 @@ footer {
     text-align: center;
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    
     color: white;
 }
 
 .disclaimer {
-    width:30%; 
+    width:80%; 
     text-align: center;
     list-style-type: none;
     margin: 0;
