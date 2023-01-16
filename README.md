@@ -71,13 +71,18 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - __F06 Feature Pages - 'Features' section__
 
-    - 
+    - The feature pages provide information relevant to the section that the user has clicked on. There is a heading at the top of the page to show what feature page the user is on. 
     
-    - 
+- There is also a background image which matches the image of the feature button on the homepage. Certain text is in bold to make the text more understandable at a quick glance.
 
        !add image here
 
 
 - __F07 Sign up page - 'Sign up'__
+
+- This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in to help support the development of features in the future. The user will be asked to submit their full name and email address.
+
+	!add image here
+
 
    
