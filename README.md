@@ -95,3 +95,13 @@ Sustainability Ireland is a website containing information to help anyone who is
     - New feature categories can be added so that returning users continue to learn from the information provided.
 
 
+## Design
+
+-   ### Imagery
+    -   The hero image and the “Sign Up” page background image have been chosen because they support the mission of the website and use natural tones.  The images are not busy so do not distract from the text or interfere with the readability.
+
+-   ### Colour Scheme
+    -  A dark green colour was selected to keep the overall feel neutral and also to be a good contrast with the white logo and menu items.
+
+-   ### Typography
+    -   Google Fonts were used to import Montserrat font into styles.css.  This was chosen to maintain a simple and modern feel that is easy to read throughout the site.
