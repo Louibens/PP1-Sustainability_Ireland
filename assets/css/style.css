@@ -43,6 +43,8 @@ body {
     font-weight: 600; 
     text-transform: uppercase;
     text-decoration: none;
+    color: white;
+
 }
 
 /* navigation links */
@@ -219,6 +221,7 @@ h1 {
 
 .features a {
     max-height: 250px;
+    text-decoration: none;
 }
 
 .features div {
@@ -404,6 +407,11 @@ footer {
     text-align: center;
     font-size: 160%;
     margin: 1%;
+    text-decoration: none;
+    color: white;
+}
+
+.social-networks li a {
     text-decoration: none;
     color: white;
 }
