@@ -30,6 +30,11 @@ Sustainability Ireland is a website containing information to help anyone who is
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to be able to access and view the relevant feature quickly and easily.
+
+    -   #### Frequent Visitor Goals
+
+        1. As a Frequent Visitor, I want to be find new information and that the website is regularly updated. This can be flagged to users that have signed up to the 		monthly newsletter
+
            
 
 ## Features
@@ -79,9 +84,14 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - __F07 Sign up page - 'Sign up'__
 
-- This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in to help support the development of features in the future. The user will be asked to submit their full name and email address.
+- This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in, along with a free text field to enter "Other" interests, to help support the development of features in the future. The user will be asked to submit their full name and email address as a requirement to submit the form.
 
 	![image](https://user-images.githubusercontent.com/119696542/212704422-8201ae3b-b80b-4a9c-b4d3-0e7f33cef9af.png)
 
 
-   
+### Features which could be implemented in the future
+
+- __New Feature pages__
+    - New feature categories can be added so that returning users continue to learn from the information provided.
+
+
