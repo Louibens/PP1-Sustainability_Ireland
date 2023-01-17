@@ -182,7 +182,7 @@ body {
     height:500px;
     width: 100%;
     background-color: aquamarine;
-    background: url('../images/girl_plant.jpg') no-repeat center center;
+    background: url('../images/girl_plant.avif') no-repeat center center;
     background-size: cover;
 }
 
@@ -266,23 +266,23 @@ a:-webkit-any-link {
 }
 
 .fb2 {
-    background-image: url('../images/household.jpg');
+    background-image: url('../images/household.avif');
 }
 
 .fb3 {
-    background-image: url('../images/baby.jpg');
+    background-image: url('../images/baby.avif');
 }
 
 .fb4 {
-    background-image: url('../images/recycle.jpg');
+    background-image: url('../images/recycle.avif');
 }
 
 .fb5 {
-    background-image: url('../images/fashion.jpg');
+    background-image: url('../images/fashion.avif');
 }
 
 .fb6 {
-    background-image: url('../images/xmas.jpg');
+    background-image: url('../images/xmas.avif');
 }
 
 /* feature pages */
@@ -439,7 +439,7 @@ footer {
 /* form */
 
 .sign-up {
-    background-image: url('../images/no-planet-b.jpg');
+    background-image: url('../images/no-planet-b.avif');
     background-size: cover;
     background-position: center;
     height: 900px;
