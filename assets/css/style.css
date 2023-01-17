@@ -338,31 +338,31 @@ a:-webkit-any-link {
 }
 
 .recycle-image {
-    background: url('../images/recycle.jpg') no-repeat center center;
+    background: url('../images/recycle.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .kids-image {
-    background: url('../images/baby.jpg') no-repeat center center;
+    background: url('../images/baby.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .household-image {
-    background: url('../images/household.jpg') no-repeat center center;
+    background: url('../images/household.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .fashion-image {
-    background: url('../images/fashion.jpg') no-repeat center center;
+    background: url('../images/fashion.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .christmas-image {
-    background: url('../images/xmas.jpg') no-repeat center center;
+    background: url('../images/xmas.avif') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
