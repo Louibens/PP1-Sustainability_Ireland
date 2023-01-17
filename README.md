@@ -134,7 +134,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 -   [Font Awesome:](https://fontawesome.com/) was used to add icons for social media websites.
 -   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
--   [TinyURL](https://tinypng.com/) was used for compressing images.
+-   [TinyPNG](https://tinypng.com/) was used for compressing images.
 -   [Convertio](https://convertio.co/) was used to convert image files from jpg to avif.
 -   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
     
