@@ -127,3 +127,14 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
+-   [Font Awesome:](https://fontawesome.com/) was used to add icons for social media websites.
+-   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+-   [TinyURL](https://tinypng.com/) was used for compressing images.
+-   [Convertio](https://convertio.co/) was used to convert image files from jpg to avif.
+-   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
+    
