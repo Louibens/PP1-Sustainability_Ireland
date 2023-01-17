@@ -121,3 +121,9 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 	![image](https://user-images.githubusercontent.com/119696542/212966074-433d8177-0294-4304-b7a8-cdc6abebdcc0.png)
 
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
