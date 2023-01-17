@@ -105,3 +105,19 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 -   ### Typography
     -   Google Fonts were used to import Montserrat font into styles.css.  This was chosen to maintain a simple and modern feel that is easy to read throughout the site.
+
+
+-   ### Wireframes
+
+    -   #### Main Page Wireframes
+
+	![image](https://user-images.githubusercontent.com/119696542/212966639-da828caf-d4b7-4d7c-90d2-3e5f32db23c1.png)
+
+    -   #### Feature Page Wireframes
+
+	![image](https://user-images.githubusercontent.com/119696542/212965926-b671de86-2385-43ae-a3b4-5a78c6fe35ff.png)
+	
+    -   #### Sign Up Page Wireframes	
+
+	![image](https://user-images.githubusercontent.com/119696542/212966074-433d8177-0294-4304-b7a8-cdc6abebdcc0.png)
+
