@@ -6,7 +6,6 @@
     margin: 0;
     padding: 0;
     border: none;
-    
 }
 
 body {
@@ -16,7 +15,6 @@ body {
     color: rgb(41, 41, 41);
     margin: 0 auto;
     max-width: 2000px;
-    
 }
 
 
@@ -29,7 +27,6 @@ body {
     height: 90px;
     background-color: #3a4139;
     margin: 0;
-
 }
 
 #logo {
@@ -72,12 +69,10 @@ body {
 .menu a {
     color: white;
     text-decoration: none;  
-    
 }
 
 .menu a:hover {
     border-bottom: 1px solid white;
-    
 }
 
 .active{
