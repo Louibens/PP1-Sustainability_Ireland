@@ -9,85 +9,91 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <title>Sustainability Ireland</title>
     </head>
+
   <body>
 
+    <!-- header and nav -->
+    
     <header>
-
         <nav>
-
             <div class="header-container">
                 <div class="logo-combo">
-                  <a href="index.html">
-                  <img src="assets/images/logo.png" alt="company logo" id="logo">
-                  Sustainability Ireland
-                  </a>
+                    <a href="index.html">
+                    <img src="assets/images/logo.png" alt="company logo" id="logo">
+                    Sustainability Ireland
+                    </a>
                 </div>
+            
                 <div class="menu">
-                  <ul>
-                      <li>
-                          <a href="index.html">Home</a>
-                      </li>
-                      <li>
-                          <div class="dropdown">
-                              <button class="dropbtn">Features 
-                              <i class="fa fa-caret-down"></i>
-                              </button>
-                              <div class="dropdown-content">
-                              <a href="travel.html" class="sub-menu">Travel</a>
-                              <a href="fashion.html" class="sub-menu">Fashion</a>
-                              <a href="recycling.html" class="sub-menu">Recycling</a>
-                              <a href="kids.html" class="sub-menu">Kids</a>
-                              <a href="christmas.html" class="sub-menu">Christmas</a>
-                              <a href="household.html" class="sub-menu">Household</a>
-                              </div>
-                          </div>      
+                    <ul>
+                        <li>
+                            <a href="index.html" class="active">Home</a>
+                        </li>
+                        <!-- drop down menu amended from w3schools.com/howto/howto_css_dropdown_navbar -->                       
+                        <li>
+                            <div class="dropdown">
+                                <button class="dropbtn">Features <i class="fa fa-caret-down"></i></button>
+                                <div class="dropdown-content">
+                                <a href="travel.html" class="sub-menu" aria-label="Button for Travel section">Travel</a>
+                                <a href="fashion.html" class="sub-menu" aria-label="Button for Fashion section">Fashion</a>
+                                <a href="recycling.html" class="sub-menu" aria-label="Button for Recycling section">Recycling</a>
+                                <a href="kids.html" class="sub-menu" aria-label="Button for Kids section">Kids</a>
+                                <a href="christmas.html" class="sub-menu" aria-label="Button for Christmas section">Christmas</a>
+                                <a href="household.html" class="sub-menu" aria-label="Button for Household section">Household</a>
+                                </div>
+                            </div>      
                         </li>
                         <li>
-                          <a href="sign-up.html" class="active">Sign Up</a>
+                            <a href="sign-up.html">Sign Up</a>
                         </li>
                     </ul>
                 </div>
             </div>    
         </nav>
-
     </header>
     
-<main class="no-planet-b">
+    <main class="no-planet-b">
 
-    <div class="form-box">
+        <!-- sign up form -->
 
-        <h3>Sign up to recieve more sustainability tips and information in our monthly newsletter</h3>
+        <div class="form-box">
+
+            <h3>Sign up to recieve more sustainability tips and information in our monthly newsletter</h3>
     
-        <form method="post" action="https://formdump.codeinstitute.net/">
-        <fieldset>
+            <form method="post" action="https://formdump.codeinstitute.net/">
 
-            <label for="first-name">First Name: </label>
-            <input id="first-name" name="first-name" type="text" class="text-input" required>
+            <fieldset>
 
-            <label for="last-name">Last Name: </label>
-            <input id="last-name" name="last-name" type="text" class="text-input" required>
+                <label for="first-name">First Name: </label>
+                <input id="first-name" name="first-name" type="text" class="text-input" required>
 
-            <label for="email">Email: </label>
-            <input id="email" name="email" type="email" class="text-input" required>
+                <label for="last-name">Last Name: </label>
+                <input id="last-name" name="last-name" type="text" class="text-input" required>
 
-            Interests: 
-                <label for="travel"><input type="checkbox" name="travel" id="travel"> Travel</label>
-                <label for="household"><input type="checkbox" name="household" id="household"> Household</label> 
-                <label for="christmas"><input type="checkbox" name="christmas" id="christmas"> Christmas</label> 
-                <label for="recycling"><input type="checkbox" name="recycling" id="recycling"> Recycling</label> 
-                <label for="fashion"><input type="checkbox" name="fashion" id="fashion"> Clothes/Fashion</label> 
-                <label for="babies"><input type="checkbox" name="babies" id="babies"> Babies/Pregnancy</label>
-                <label for="other"><input type="text" name="other" id="other"> Other</label>  
+                <label for="email">Email: </label>
+                <input id="email" name="email" type="email" class="text-input" required>
 
-            <button type="submit" class="join-button">Sign Up</button>
-            <input type="reset" value="Reset form" class="join-button">
+                Interests: 
+                    <label for="travel"><input type="checkbox" name="travel" id="travel"> Travel</label>
+                    <label for="household"><input type="checkbox" name="household" id="household"> Household</label> 
+                    <label for="christmas"><input type="checkbox" name="christmas" id="christmas"> Christmas</label> 
+                    <label for="recycling"><input type="checkbox" name="recycling" id="recycling"> Recycling</label> 
+                    <label for="fashion"><input type="checkbox" name="fashion" id="fashion"> Clothes/Fashion</label> 
+                    <label for="babies"><input type="checkbox" name="babies" id="babies"> Babies/Pregnancy</label>
+                    <label for="other"><input type="text" name="other" id="other"> Other</label>  
 
-        </fieldset>
-        </form>
+                <button type="submit" class="join-button">Sign Up</button>
+                <input type="reset" value="Reset form" class="join-button">
 
-    </div>
+            </fieldset>
+        
+            </form>
+
+        </div>
   
-</main>
+    </main>
+
+    <!-- footer -->
 
     <footer>
 

@@ -14,6 +14,8 @@
 
 <body>
 
+    <!-- header and nav -->
+    
     <header>
         <nav>
             <div class="header-container">
@@ -23,22 +25,23 @@
                     Sustainability Ireland
                     </a>
                 </div>
+            
                 <div class="menu">
                     <ul>
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="index.html" class="active">Home</a>
                         </li>
+                        <!-- drop down menu amended from w3schools.com/howto/howto_css_dropdown_navbar -->                       
                         <li>
-                            <div class="dropdown active">
-                                <button class="dropbtn">Features 
-                                <i class="fa fa-caret-down"></i>
-                                </button>
+                            <div class="dropdown">
+                                <button class="dropbtn">Features <i class="fa fa-caret-down"></i></button>
                                 <div class="dropdown-content">
-                                <a href="travel.html" class="sub-menu">Travel</a>
-                                <a href="fashion.html" class="sub-menu">Fashion</a>
-                                <a href="kids.html" class="sub-menu">Kids</a>
-                                <a href="christmas.html" class="sub-menu">Christmas</a>
-                                <a href="household.html" class="sub-menu">Household</a>
+                                <a href="travel.html" class="sub-menu" aria-label="Button for Travel section">Travel</a>
+                                <a href="fashion.html" class="sub-menu" aria-label="Button for Fashion section">Fashion</a>
+                                <a href="recycling.html" class="sub-menu" aria-label="Button for Recycling section">Recycling</a>
+                                <a href="kids.html" class="sub-menu" aria-label="Button for Kids section">Kids</a>
+                                <a href="christmas.html" class="sub-menu" aria-label="Button for Christmas section">Christmas</a>
+                                <a href="household.html" class="sub-menu" aria-label="Button for Household section">Household</a>
                                 </div>
                             </div>      
                         </li>
@@ -52,6 +55,8 @@
     </header>
 
     <main class="recycle-image">  
+
+        <!-- feature content -->  
     
         <div class="info-section">
 
@@ -89,6 +94,8 @@
 
         </div>
     </main>
+
+    <!-- footer --> 
 
     <footer>
         <div class="social-networks">
