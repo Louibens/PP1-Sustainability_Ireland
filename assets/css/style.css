@@ -260,12 +260,12 @@ a:-webkit-any-link {
 
 
 .fb1 {
-    background-image: url('../images/travel.avif');
+    background-image: url('../images/travel.webp');
 
 }
 
 .fb2 {
-    background-image: url('../images/household.avif');
+    background-image: url('../images/household.webp');
 }
 
 .fb3 {
@@ -273,15 +273,15 @@ a:-webkit-any-link {
 }
 
 .fb4 {
-    background-image: url('../images/recycle.avif');
+    background-image: url('../images/recycle.webp');
 }
 
 .fb5 {
-    background-image: url('../images/fashion.avif');
+    background-image: url('../images/fashion.webp');
 }
 
 .fb6 {
-    background-image: url('../images/xmas.avif');
+    background-image: url('../images/xmas.webp');
 }
 
 /* feature pages */
@@ -331,7 +331,7 @@ a:-webkit-any-link {
 
 
 .travel-image {
-    background: url('../images/travel.avif') no-repeat center center;
+    background: url('../images/travel.webp') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
@@ -343,25 +343,25 @@ a:-webkit-any-link {
 }
 
 .kids-image {
-    background: url('../images/baby.avif') no-repeat center center;
+    background: url('../images/baby.webp') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .household-image {
-    background: url('../images/household.avif') no-repeat center center;
+    background: url('../images/household.webp') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .fashion-image {
-    background: url('../images/fashion.avif') no-repeat center center;
+    background: url('../images/fashion.webp') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
 
 .christmas-image {
-    background: url('../images/xmas.avif') no-repeat center center;
+    background: url('../images/xmas.webp') no-repeat center center;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(245, 243, 243, 0.5)
 }
@@ -443,7 +443,7 @@ footer {
 /* form */
 
 .sign-up {
-    background-image: url('../images/no-planet-b.avif');
+    background-image: url('../images/no-planet-b.webp');
     background-size: cover;
     background-position: center;
     height: 900px;
