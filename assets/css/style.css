@@ -363,12 +363,10 @@ footer {
 .social-networks {
     width:50%; 
     text-align: center;
-    padding: 10px;
 }
 
 .social-networks h3 {
     padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .social-networks ul {
@@ -391,25 +389,12 @@ footer {
 }
 
 .disclaimer {
-    width:80%; 
+    width:90%; 
     text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 5px;
     color: white;
-}
-
-.address {
-    width:30%; 
-    text-align: center;
-    list-style-type: none;
-    margin: 0;
-    padding: 5px;
-    color: white;
-}
-
-.address li {
-    list-style-type: none;
 }
 
 /* form */
