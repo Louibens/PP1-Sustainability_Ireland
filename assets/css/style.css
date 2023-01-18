@@ -467,6 +467,25 @@ label {
     color: #3a4139;
 }
 
+/* thank you page */
+
+.thank-you {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 24px;
+    background-color: rgba(243, 247, 241, 0.7);
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    height: 400px;
+    position: absolute;
+    }
+
 /* Media queries */
 @media screen and (max-width: 950px){
 
@@ -596,7 +615,7 @@ footer {
 
 }
 
-@media only screen and (min-width: 950px) and (max-width: 1110px) {
+@media only screen and (min-width: 951px) and (max-width: 1110px) {
 
 .welcome p {
     font-size: 20px !important;
