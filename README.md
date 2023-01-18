@@ -62,7 +62,6 @@ Sustainability Ireland is a website containing information to help anyone who is
 
      ![image](https://user-images.githubusercontent.com/119696542/212703699-5a2df2a1-4981-4c5a-a984-2e6c06c1de22.png)
 
-
 - __F04 Footer__
 
     - The footer is featured on all pages and is identical on each page making it easy to use.  It contains two sections :
@@ -94,8 +93,15 @@ Sustainability Ireland is a website containing information to help anyone who is
 - __New Feature pages__
     - New feature categories can be added so that returning users continue to learn from the information provided.
 
+- __Search function in the nav bar__
+    - A search function would enable users to quickly find particular information that they are looking for.
 
 ## Design
+
+-   ### Logo
+    -   The logo was created on freelogodesign.org website. The circular swirl was chosen as it ties in with the sustainability ethos of a circular economy. This is combined with the text logo at the top right of the website which users will naturally read first.
+    
+    ![image](https://user-images.githubusercontent.com/119696542/213275773-226014a8-b06d-49e3-b4da-69017430e328.png)
 
 -   ### Imagery
     -   The hero image and the “Sign Up” page background image have been chosen because they support the mission of the website and use natural tones.  The images are not busy so do not distract from the text or interfere with the readability.
@@ -130,7 +136,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 ### Frameworks, Libraries & Programs Used
 
--   [Google Fonts:](https://fonts.google.com/) was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
+-   [Google Fonts:](https://fonts.google.com/) was used to import the 'Montserrat' and 'Oswald' fonts into the style.css file. However only Montserrat is used across the project.
 -   [Font Awesome:](https://fontawesome.com/) was used to add icons for social media websites.
 -   [Git:](https://git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
