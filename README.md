@@ -86,7 +86,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in, along with a free text field to enter "Other" interests, to help support the development of features in the future. The user will be asked to submit their full name and email address as a requirement to submit the form.
 
-	![image](https://user-images.githubusercontent.com/119696542/212704422-8201ae3b-b80b-4a9c-b4d3-0e7f33cef9af.png)
+	![image](https://user-images.githubusercontent.com/119696542/213177716-a240984e-d0cc-49ed-a3dc-dc50ce305728.png)
 
 
 ### Features which could be implemented in the future
@@ -101,7 +101,7 @@ Sustainability Ireland is a website containing information to help anyone who is
     -   The hero image and the “Sign Up” page background image have been chosen because they support the mission of the website and use natural tones.  The images are not busy so do not distract from the text or interfere with the readability.
 
 -   ### Colour Scheme
-    -  A dark green colour was selected to keep the overall feel neutral and also to be a good contrast with the white logo and menu items.
+    -  A dark green colour (#3a4139) was selected to keep the overall feel neutral and also to be a good contrast with the white logo and menu items. The website only uses one main colour as the feature buttons on the homepage each have a unique background image which has the potential to clash if the website had a background color so the background is just white. The background on the feature pages also uses images so there is not a requirement to select multiple colours across the website. This maintains a simple clean display across the website.
 
 -   ### Typography
     -   Google Fonts were used to import Montserrat font into styles.css.  This was chosen to maintain a simple and modern feel that is easy to read throughout the site.
