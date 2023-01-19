@@ -72,7 +72,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
       ![image](https://user-images.githubusercontent.com/119696542/212704135-963c0aa5-8249-4e82-ad4b-a47bbd9939f1.png)
 
-- __F06 Feature Pages - 'Features' section__
+- __F05 Feature Pages - 'Features' section__
 
     - The feature pages provide information relevant to the section that the user has clicked on. There is a heading at the top of the page to show what feature page the user is on. 
     
@@ -81,7 +81,7 @@ Sustainability Ireland is a website containing information to help anyone who is
      ![image](https://user-images.githubusercontent.com/119696542/212704596-5284f645-ca74-4bfc-a018-139d3db43d16.png)
 
 
-- __F07 Sign up page - 'Sign up'__
+- __F06 Sign up page - 'Sign up'__
 
 - This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in, along with a free text field to enter "Other" interests, to help support the development of features in the future. The user will be asked to submit their full name and email address as a requirement to submit the form.
 
@@ -95,6 +95,9 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - __Search function in the nav bar__
     - A search function would enable users to quickly find particular information that they are looking for.
+    
+- __Resources section__
+    - A resources section would enable users to navigate to external websites to gain further knowledge from sustainability experts.
 
 ## Design
 
