@@ -162,51 +162,45 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - [HTML Validator](https://validator.w3.org/)
 
-    - result for index.html
+- result for index.html
 
  ![image](https://user-images.githubusercontent.com/119696542/213426297-59e40eeb-67ef-45ba-836b-f5e1e70ce099.png)
 
-     - result for travel.html
+- result for travel.html
  
  ![image](https://user-images.githubusercontent.com/119696542/213426452-9eafe13d-7b44-4ae8-ae62-d5b87b6fb56f.png)
 
-      - result for fashion.html
+- result for fashion.html
  
  ![image](https://user-images.githubusercontent.com/119696542/213426519-c46d56cb-e256-4cbd-833d-43c5b5550584.png)
 
-      - result for recycling.html
+- result for recycling.html
       
  ![image](https://user-images.githubusercontent.com/119696542/213426618-c48d25ba-1f2a-461d-82ad-763da1ed05ea.png)
 
-      - result for kids.html
+ - result for kids.html
       
  ![image](https://user-images.githubusercontent.com/119696542/213426799-ec863b6d-e4cd-465e-a1fc-e746139aba8f.png)
      
-      - result for christmas.html
+- result for christmas.html
       
  ![image](https://user-images.githubusercontent.com/119696542/213426823-82264ff7-65ac-4f28-bedc-3ffebc82583b.png)
       
-      - result for household.html      
+- result for household.html      
       
  ![image](https://user-images.githubusercontent.com/119696542/213426869-2a20af02-b04b-4248-b513-c20c31daec29.png)	
 
-      - result for sign-up.html      
+- result for sign-up.html      
       
  ![image](https://user-images.githubusercontent.com/119696542/213427108-b2405a51-3f90-4aa8-89db-6cda41a6e5b3.png)
  
-       - result for thank-you.html 
+- result for thank-you.html 
  
  ![image](https://user-images.githubusercontent.com/119696542/213427275-52a043cf-c784-41f6-815c-d6243bef0b85.png)
  
-       - result for 404.html 
+- result for 404.html 
  
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
 
 
-     
- 
-
-      - result for household.html    
-      
-      
-      - result for household.html          
+       
