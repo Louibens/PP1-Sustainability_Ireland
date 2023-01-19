@@ -243,12 +243,6 @@ h1 {
     padding: 5px;
 }
 
-a:-webkit-any-link {
-    color: white;
-    cursor: pointer;
-    text-decoration: none;
-}
-
 .fb1 {
     background-image: url('../images/travel.webp');
 }
@@ -475,7 +469,7 @@ label {
 
 @media screen and (max-width: 469px){
     .quote h1 {
-        font-size: 14px !important;
+        font-size: 12px !important;
         width: 70%
     }
 
@@ -593,17 +587,17 @@ footer {
 
 @media screen and (min-width: 1400px){
 
-    .features {
-        margin: 0% 10px 3% 10px;  
-    }
+.features {
+    margin: 0% 10px 3% 10px;  
+}
     
-    .feature_button {
-        height: 225px;
-        width: 450px;
-        background-color: rgb(49, 63, 63);
-        border: #3a3a3a solid 2px;
-        background-size: cover;
-        padding: 5px;
-    }
+.feature_button {
+    height: 225px;
+    width: 450px;
+    background-color: rgb(49, 63, 63);
+    border: #3a3a3a solid 2px;
+    background-size: cover;
+    padding: 5px;
+}
     
-    }
+}
