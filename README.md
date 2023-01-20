@@ -208,6 +208,13 @@ Sustainability Ireland is a website containing information to help anyone who is
  
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
  
+ ### Known bugs
+
+- While testing on iphone, it has been recorded that the “Reset form” button on the Sign up form appears with rounded edges rather than the rectangle that it should be. Functionally it still works and further investigation is required to resolve.
+ 
+ ![image](https://user-images.githubusercontent.com/119696542/213687296-008920a8-6ff2-4d14-aa09-72464e8e508b.png)
+
+ 
 ## Deployment
 
 ### How this site was deployed
