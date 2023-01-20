@@ -209,7 +209,7 @@ Sustainability Ireland is a website containing information to help anyone who is
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
  
  - [CSS Validator](https://jigsaw.w3.org/css-validator/)
- -
+ 
  ![image](https://user-images.githubusercontent.com/119696542/213691764-1e57db5d-5ca0-47b8-8c64-a420e97bc827.png)
 
  
