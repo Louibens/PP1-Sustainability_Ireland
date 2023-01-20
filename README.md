@@ -201,6 +201,26 @@ Sustainability Ireland is a website containing information to help anyone who is
 - result for 404.html 
  
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
+ 
 
-
+## Credits 
        
+### Media 
+
+- All images were downloaded from [Pexels](https://www.pexels.com/) :
+
+    - <a href="https://www.pexels.com/photo/a-woman-in-white-wearing-gloves-while-looking-at-the-green-plant-she-is-holding-7655917/" target="_blank" rel="noopener">Hero image on homepage</a>
+
+    - <a href="https://www.pexels.com/photo/person-in-white-crew-neck-t-shirt-7655615" target="_blank" rel="noopener">Sign up page image</a> 
+
+    - <a href="https://www.pexels.com/photo/person-with-toy-airplane-on-world-map-3769138/" target="_blank" rel="noopener">Image used on Travel feature button and travel page background</a>
+
+    - <a href="https://www.pexels.com/photo/crop-black-mother-with-baby-on-bed-6393381/" target="_blank" rel="noopener">Image used on Kids feature button and Kids page background</a> 
+    
+    - <a href="https://www.pexels.com/photo/clothes-on-a-clothing-rack-8396721/" target="_blank" rel="noopener">Image used on Fashion feature button and Fashion page background</a> 
+    
+    - <a href="https://www.pexels.com/photo/pistachios-in-white-bag-and-pasta-on-table-7262458/" target="_blank" rel="noopener">Image used on Household feature button and Household page background</a> 
+    
+    - <a href="https://www.pexels.com/photo/close-up-of-christmas-decoration-hanging-on-tree-250177/" target="_blank" rel="noopener">Image used on Christmas feature button and Christmas page background</a> 
+    
+    - <a href="https://www.pexels.com/photo/man-in-white-t-shirt-holding-green-box-9324359/" target="_blank" rel="noopener">Image used on Recycling feature button and Recycling page background</a> 
