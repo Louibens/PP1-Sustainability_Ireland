@@ -155,7 +155,7 @@ Sustainability Ireland is a website containing information to help anyone who is
     
 ## Testing
 
-### Test Cases and Results
+### Manual Test Cases and Results
 
 - The below tables detail the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised 
 
@@ -164,7 +164,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 ![image](https://user-images.githubusercontent.com/119696542/213405575-30e720f5-6637-4eac-9840-e93535d91f69.png)
 
 
- ### Validator Testing
+ ### Automated Validator Testing
 
 - [HTML Validator](https://validator.w3.org/)
 
