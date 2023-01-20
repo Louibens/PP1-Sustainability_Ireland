@@ -203,7 +203,11 @@ Sustainability Ireland is a website containing information to help anyone who is
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
  
 
-## Credits 
+## Credits
+
+### Code
+- Code on how to do the dropdown menu on the Features menu item came from information on this page : [Hoverable dropdown menu how to guide](https://www.w3schools.com/howto/howto_css_dropdown.asp)
+
        
 ### Media 
 
