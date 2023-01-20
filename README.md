@@ -76,16 +76,28 @@ Sustainability Ireland is a website containing information to help anyone who is
 
     - The feature pages provide information relevant to the section that the user has clicked on. There is a heading at the top of the page to show what feature page the user is on. 
     
-- There is also a background image which matches the image of the feature button on the homepage. Certain text is in bold to make the text more understandable at a quick glance.
+	- There is also a background image which matches the image of the feature button on the homepage. Certain text is in bold to make the text more understandable at a quick glance.
 
      ![image](https://user-images.githubusercontent.com/119696542/212704596-5284f645-ca74-4bfc-a018-139d3db43d16.png)
 
 
 - __F06 Sign up page - 'Sign up'__
 
-- This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in, along with a free text field to enter "Other" interests, to help support the development of features in the future. The user will be asked to submit their full name and email address as a requirement to submit the form.
+	- This page will allow the user to get signed up to Sustainability Ireland monthly newsletter to continue their sustainable lifestyle journey. The user will be able specify what categories they are interested in, along with a free text field to enter "Other" interests, to help support the development of features in the future. The user will be asked to submit their full name and email address as a requirement to submit the form.
 
 	![image](https://user-images.githubusercontent.com/119696542/213177716-a240984e-d0cc-49ed-a3dc-dc50ce305728.png)
+
+- __F07 Thank you page - 'Thank you'__
+
+	- This page has been created and will be displayed to users who successfully submit the sign up form so that they know the form has been submitted. I have not directed the form to this page at this time so that the assesor will be able to verify that the form is working correctly and the inputted information is sent across.
+
+![image](https://user-images.githubusercontent.com/119696542/213730259-ba387aeb-0c25-4775-b6af-0ec7129306b2.png)
+
+- __F08 404 error page - '404 Error'__
+
+	- This page has been created and will be displayed to users who manage to navigate to a page that doesn't exist. They will be able to navigate to any other page of the website from the nav bar.
+
+![image](https://user-images.githubusercontent.com/119696542/213731343-9cf84e64-148f-47f4-9a47-88d92669fe68.png)
 
 
 ### Features which could be implemented in the future
@@ -101,7 +113,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 ### Accessibility
 
-    - Aria labels used on homepage Feature buttons to ensure visually impaired users know what the buttons do.
+- Aria labels used on homepage Feature buttons to ensure visually impaired users know what the buttons do.
 
 ## Design
 
