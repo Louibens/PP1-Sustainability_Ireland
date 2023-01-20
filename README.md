@@ -304,3 +304,10 @@ Sustainability Ireland is a website containing information to help anyone who is
     - <a href="https://www.pexels.com/photo/close-up-of-christmas-decoration-hanging-on-tree-250177/" target="_blank" rel="noopener">Image used on Christmas feature button and Christmas page background</a> 
     
     - <a href="https://www.pexels.com/photo/man-in-white-t-shirt-holding-green-box-9324359/" target="_blank" rel="noopener">Image used on Recycling feature button and Recycling page background</a> 
+
+
+### Acknowledgments
+
+- Thank you to my mentor Elaine Roche who was a great support throughout the project. Her advice on accessibility and responsiveness along with her feedback was invaluable. 
+- I also had the website reviewed by Frank Farrell who has trained on UX and is colour blind to ensure that the website was easy to navigate and legible.
+- The website was also reviewed by Joan McDermott for typos and advice regarding content display.
