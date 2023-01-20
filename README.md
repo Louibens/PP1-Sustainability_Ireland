@@ -99,6 +99,10 @@ Sustainability Ireland is a website containing information to help anyone who is
 - __Resources section__
     - A resources section would enable users to navigate to external websites to gain further knowledge from sustainability experts.
 
+### Accessibility
+
+    -   Aria labels used on homepage Feature buttons to ensure visually impaired users know what the buttons do.
+
 ## Design
 
 -   ### Logo
