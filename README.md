@@ -43,7 +43,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 -   __F01 Navigation Bar__
 
-    - The navigation bar has a consistent look and placement on all pages of the website supporting easy navigation.  It includes a Logo image combined with a simple text logo, and menu items - Home page, Features and Sign up links. The Features link has a drop down menu to the different feature pages. This drop down list updates on each feature page to remove the page that you are currently on. It is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
+    - The navigation bar has a consistent look and placement on all pages of the website supporting easy navigation.  It includes a Logo image combined with a simple text logo, and menu items - Home page, Features and Sign up links. The Features link has a drop down menu to the different feature pages. This drop down list updates on each feature page to remove the page that you are currently on to improve navigation across the website without the user needing to return to the homepage to access the different feature pages. The nav bar is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
       ![image](https://user-images.githubusercontent.com/119696542/212703501-7187d619-532d-4d16-bbd6-66976d3c1c5c.png)
     
