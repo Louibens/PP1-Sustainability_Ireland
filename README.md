@@ -101,7 +101,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 ### Accessibility
 
-    -   Aria labels used on homepage Feature buttons to ensure visually impaired users know what the buttons do.
+    - Aria labels used on homepage Feature buttons to ensure visually impaired users know what the buttons do.
 
 ## Design
 
