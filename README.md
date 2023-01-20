@@ -208,6 +208,31 @@ Sustainability Ireland is a website containing information to help anyone who is
  
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
  
+## Deployment
+
+### How this site was deployed
+
+- Login to Github
+- Click on the GitHub repository for this project (https://github.com/Louibens/ms1-Sustainability_Ireland)
+- Click on the Settings tab, then choose Pages from the left hand menu 
+- From the source section drop-down menu, select the Main Branch
+- Once the main branch has been selected, click save.
+- The page will refresh with a notification that” Your site is live”
+- Any changes pushed to the master branch will take effect on the live project
+
+  The live link can be found here - [Sustainability Ireland]( https://louibens.github.io/ms1-Sustainability_Ireland/index.htmlhtml) 
+  
+### How to clone the repository
+
+- Go to the https://github.com/Louibens/ms1-Sustainability_Ireland repository on GitHub 
+- Click the "Fork" button in the top right corner
+
+### How to clone the repository
+
+- Go to the https://github.com/Louibens/ms1-Sustainability_Ireland repository on GitHub 
+- Click the "Code" button to the right of the screen, click HTTPs and copy the link there
+- Open a GitBash terminal and navigate to the directory where you want to locate the clone
+- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
 ## Credits
 
