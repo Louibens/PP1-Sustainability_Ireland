@@ -208,6 +208,16 @@ Sustainability Ireland is a website containing information to help anyone who is
  
  ![image](https://user-images.githubusercontent.com/119696542/213427442-196a7684-178d-467b-bf73-09cc9fbc1180.png)
  
+ ### Lighthouse
+ 
+ - I used Lighthouse within the Chrome Developer Tools to allow me to test the performance, accessibility, best practices and SEO of the website. I updated all images to webp format to improve the performance score
+ 
+ ![image](https://user-images.githubusercontent.com/119696542/213688046-44b648c4-c22c-4206-833a-a18fbe461bfa.png)
+ 
+ ![image](https://user-images.githubusercontent.com/119696542/213688691-0d922dbd-9c0a-42cb-8aa3-ae7c5c695ef3.png)
+
+
+ 
  ### Known bugs
 
 - While testing on iphone, it has been recorded that the “Reset form” button on the Sign up form appears with rounded edges rather than the rectangle that it should be. Functionally it still works and further investigation is required to resolve.
