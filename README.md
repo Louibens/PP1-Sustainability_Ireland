@@ -149,7 +149,9 @@ Sustainability Ireland is a website containing information to help anyone who is
 -   [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
 -   [TinyPNG](https://tinypng.com/) was used for compressing images.
 -   [Convertio](https://convertio.co/) was used to convert image files from jpg to avif.
--   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes during the design process.
+-   [Balsamiq:](https://balsamiq.com/) was used to create the wireframes.
+-   [Cloud Convert:](https://cloudconvert.com/) was used to convert image files from avif to webp.
+-   Chrome dev tools to troubleshoot, test and check responsiveness of features.
     
 ## Testing
 
