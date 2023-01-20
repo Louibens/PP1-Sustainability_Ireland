@@ -58,7 +58,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 - __F03 Feature buttons__
 
-    - There are currently 6 feature buttons on the landing page which are labelled to identify the content that can be found when clicked. The feature buttons "light up" when you hover over each one to add some interactivity with the website. Text colour is kept simple with added shadown to improve readability and to minimise distraction.
+    - There are currently 6 feature buttons on the landing page which are labelled to identify the content that can be found when clicked. The feature buttons "light up" when you hover over each one to add some interactivity with the website. They also have shadow applied to help them stand out on the white background. Text colour is kept simple with added shadown to improve readability and to minimise distraction.
 
      ![image](https://user-images.githubusercontent.com/119696542/212703699-5a2df2a1-4981-4c5a-a984-2e6c06c1de22.png)
 
