@@ -4,7 +4,7 @@
 
 Sustainability Ireland is a website containing information to help anyone who is interested in learning how to start their sustainable lifestyle journey and aims to encourage people to introduce us to family and friends to increase the impact of their actions.
 
-![image](https://user-images.githubusercontent.com/119696542/212702938-6b0d6756-6d43-437c-b746-153361b83786.png)
+![image](https://user-images.githubusercontent.com/119696542/213707436-1f9ede86-a814-4c0b-b101-139dc538d23d.png)
 
 
 ## Index – Table of Contents
@@ -309,5 +309,5 @@ Sustainability Ireland is a website containing information to help anyone who is
 ### Acknowledgments
 
 - Thank you to my mentor Elaine Roche who was a great support throughout the project. Her advice on accessibility and responsiveness along with her feedback was invaluable. 
-- I also had the website reviewed by Frank Farrell who has trained on UX and is colour blind to ensure that the website was easy to navigate and legible.
+- I also had the website reviewed by Frank Farrell who has studied UX and is colour blind to ensure that the website was easy to navigate and legible.
 - The website was also reviewed by Joan McDermott for typos and advice regarding content display.
