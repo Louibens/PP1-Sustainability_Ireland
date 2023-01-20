@@ -205,6 +205,29 @@ Sustainability Ireland is a website containing information to help anyone who is
 
 ## Credits
 
+### Content 
+
+- Content for the website was researched on the following websites
+  
+  	- [Ireland.com](https://www.ireland.com/)
+	
+	- [sustainabletravel.org](https://sustainabletravel.org/)
+	
+	- [Irish Times article](https://www.irishtimes.com/life-and-style/travel/sustainable-travel-four-smart-ways-to-make-a-positive-impact-1.4007596#:~:text=%22Travellers%20can%20help%20reduce%20their,or%20purchasing%20locally%20produced%20handicrafts)
+	
+	- [Euronews](https://www.euronews.com/green/2022/12/02/is-france-banning-private-jets-everything-we-know-from-a-week-of-green-transport-proposals)
+	
+	- [Oxfam.org](https://www.oxfam.org/en)
+	
+	- [TCD survey](https://www.tcd.ie/Geography/assets/pdf/env_gov/Water-consumption-survey-results.pdf)
+	
+	- [mywaste.ie](https://www.mywaste.ie/)
+	
+	- [earth.org](https://earth.org/plastic-pollution-in-the-ocean-facts/)
+
+- All content was written by the developer
+
+
 ### Code
 - Code on how to do the dropdown menu on the Features menu item came from information on this page : [Hoverable dropdown menu how to guide](https://www.w3schools.com/howto/howto_css_dropdown.asp)
 
