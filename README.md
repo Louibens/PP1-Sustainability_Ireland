@@ -247,6 +247,10 @@ Sustainability Ireland is a website containing information to help anyone who is
  
  ![image](https://user-images.githubusercontent.com/119696542/213687296-008920a8-6ff2-4d14-aa09-72464e8e508b.png)
 
+- The website was reviewed by a family member and the quote on the homepage was not displayed as it should be (on 2 lines with the name below the quote). I have been unable to replicate this using dev tools so noting it here as a known bug.
+
+![image](https://user-images.githubusercontent.com/119696542/214015491-bc2e902e-f7a8-43d3-ac7e-d81d0f39b968.png)
+
  
 ## Deployment
 
