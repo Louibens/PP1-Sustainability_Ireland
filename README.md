@@ -105,11 +105,17 @@ Sustainability Ireland is a website containing information to help anyone who is
 - __New Feature pages__
     - New feature categories can be added so that returning users continue to learn from the information provided.
 
+- __Community boards__
+    - Users can sign up to be part of the Sustainability Ireland community and post questions to a board which other community members will be able to post answers to.
+    
 - __Search function in the nav bar__
     - A search function would enable users to quickly find particular information that they are looking for.
     
 - __Resources section__
     - A resources section would enable users to navigate to external websites to gain further knowledge from sustainability experts.
+    
+- __Archive section__
+    - An archive section would be useful to move old information to so that the feature sections can be updated and kept relevant without losing old feature info.
 
 ### Accessibility
 
