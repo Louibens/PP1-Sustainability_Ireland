@@ -182,6 +182,13 @@ Sustainability Ireland is a website containing information to help anyone who is
 ![image](https://user-images.githubusercontent.com/119696542/213405575-30e720f5-6637-4eac-9840-e93535d91f69.png)
 
 
+- Testing has been carried out on the following browsers :
+
+    - Chrome Version Version 109.0.5414.75 (Official Build) (64-bit)
+    - Firefox Version Version 108.0.2 (64-bit)
+    - Edge Version Version 109.0.1518.61 (Official build) (64-bit)
+
+
  ### Automated Validator Testing
 
 - [HTML Validator](https://validator.w3.org/)
