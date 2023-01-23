@@ -566,6 +566,16 @@ label {
     margin: 5px 0 20px 0;
 }
 
+.form-box {
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    padding: 30px;
+    position: absolute;
+    left: 10%;
+    margin: 50px 10% 0 0
+}
+
 footer {
     font-size: 12px;
 }
