@@ -1,6 +1,6 @@
 # Sustainability Ireland
 
-[View the live project here](https://louibens.github.io/ms1-Sustainability_Ireland/index.html)
+[View the live project here](https://louibens.github.io/PP1-Sustainability_Ireland/)
 
 Sustainability Ireland is a website containing information to help anyone who is interested in learning how to start their sustainable lifestyle journey and aims to encourage people to introduce us to family and friends to increase the impact of their actions.
 
@@ -271,7 +271,7 @@ Sustainability Ireland is a website containing information to help anyone who is
 - The page will refresh with a notification that” Your site is live”
 - Any changes pushed to the master branch will take effect on the live project
 
-  The live link can be found here - [Sustainability Ireland]( https://louibens.github.io/ms1-Sustainability_Ireland/index.htmlhtml) 
+  The live link can be found here - [Sustainability Ireland](https://louibens.github.io/PP1-Sustainability_Ireland/) 
   
 ### How to clone the repository
 
